@@ -1,3 +1,6 @@
+Acknowledgment: https://docs.scala-lang.org/overviews/scala-book/introduction.html
+- Code examples are mainly from here
+
 # Scala Overview
 Scala is a statically typed (explicitly declared), high-level language. The syntax of Scala is known to be 'expressive', supporting the functional programming (FP) paradigm.
 
